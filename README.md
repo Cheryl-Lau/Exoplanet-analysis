@@ -24,6 +24,6 @@ P.S. That should take no more than ~20 lines, don't overthink!
 # Coding knowkedge required 
 
 Please google the following python tools and learn how to use them: 
-for-loops with a counter 
-list 
-append  (for storing numbers generated from each iteration of a loop into a single list of numbers)
+1. for-loops with a counter 
+2. list 
+3. append  (for storing numbers generated from each iteration of a loop into a single list of numbers)
