@@ -60,7 +60,6 @@ def data_quantization(n,section_length,y_data):
     for i,point in enumerate(y_data):  
         if i >= section_length*n and i < section_length*(n+1):            
             section_y_data.append(point) 
-    section_y_data = np.array(section_y_data)
     return section_y_data
 
 processed_data = []
